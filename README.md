@@ -7,7 +7,7 @@ A landing page da TechZ Store é um projeto front-end que visa proporcionar uma 
 ## Funcionalidades Principais
 
 ### Barra de Menu
-- A barra de menu localizada no topo da página permite acesso rápido às principais seções da loja, como "Início", "Produtos", "Ofertas", "Contato" e "Sobre Nós".
+- A barra de menu localizada no topo da página permite acesso rápido às principais seções da loja, como "Home", "Produtos", "Sobre", "Contato" e "Conta".
 - A navegação é suave e amigável, com menus dropdown para categorias de produtos, melhorando a usabilidade.
 
 ### Colunas de Produtos
